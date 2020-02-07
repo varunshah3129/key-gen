@@ -3,14 +3,14 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <div>
-<h1>Connection box <span>mask/unmask on demand input</span></h1>
+<h1>Hide Your Token<span>mask/unmask, copy and refresh on demand input</span></h1>
 <form>
 <!--    <p>-->
 <!--        <label for="username">Your login</label>-->
 <!--        <input type="text" value="" placeholder="Enter Username" id="username">-->
 <!--    </p>-->
     <p >
-        <label for="password">Your password</label>
+        <label for="password">Token</label>
         <input type="password" value="ajax" placeholder="Enter Password" id="password" class="password">
 
         <button class="unmask" id="unmasking" type="button" title="Mask/Unmask password to check content"><i class="fa fa-eye"></i></button>
